@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "domio-prod",
+  "private_key_id": "b81d48c9fa6b70e161310edd8c3e26130eee9fa2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDPSn6Ln1FPbEN5\ncxe6Uoo4PT+yLif0O1mNghzU4V0Hta1TtKIJpveZLSFscGLLa4zUVxfCEhs6O/kr\nndKznXEafE9U36m/Ap2Ms5UQmsNTOG+q52lEsAMBGomQfAdAmpZgMpqiGedqY+d5\nJmIDEAmpG0Q7u+m8UtuLXL0cWENWQk4B6ioZwaJVMLikcP2PE3DPbrJs6dhbvi8L\nI4VdufYAN7Ope/l0cc1iFI0RUwOu7zfH7uQupyvdXxSutNq/XgRqb9Jw7SKqv0k4\nVVuCwPTeUlGDvn6eGG8u5/IKg+ajzo9Sy8o+9ao9yt39AJDr7qQ6vbZgju83Pg8C\niK3OkOS5AgMBAAECgf9VSlFxzBuokjiGatSt1UhfMNRZ0U6fLyGpwooaYp/kjDFv\nlOMXFZwgFRxWLJJ5yxwm7QQu1e8IsaR++HEOy7kTLL13g+T+sr91z8OFvCf3a0Ex\nu1rqPYGpnUGnhrYf3tCrbtGGi8yr+cSZadw/Zlnoj/ot7yOSWS/8J4GoJ/43fv19\nVywsuxCRHRkeROimJHcjn9kHHm80kI6MqCdn6U3So3hFlKW/9J9u6jCZr4RUwe/Y\npyzuFWoNQAWq6a2zjxcv6ueYsWs7UGY4LAuYfzemPZIvYRaWB94L8iProrHNRbED\nJ0ge1BFTQJ4w/y9vP3HfnmgVmeQXZwF5VAlVLkECgYEA8XIxzhcy7yVs6Hli5074\njdXNWaqwdQgs0DySMPVqcEKJuocVipGIQxidt0eUqbrY66NxPNZ4g7LO685jcchS\nqg4WEjJTg7VMDhDEkZXfnmLOpzk8hLzGl7N/1rXoCZIzOmknn8HXhZnJbLHQgMdJ\nMpVGq8uTCXiWyZTOajFzz20CgYEA28k+2fKXB4bTNa42hw6QE7VchIpoD+fSwizV\nSoiOm3NJnc7VneFyWyou1vdp0DD9V6MOnQQb/1SyAWFJRxEzjgQG5RI18CeEVJeY\nPyXkOPZZ0CSNdrlVmbluIiLtAHYkqhgyCJuii/artRNqSWyBSAj0vYgA0W286JCP\ntQuSvv0CgYB7UJefarnY6oR1N4oMGYlY55m58jOtkj9RG56O4sk6DMHLQrL90taF\nbk0fDrAfAA9KSm/LYr6qhOiqBv9DXczajdc38/wziKUPigDbWnCbtFtXjSQbp07G\nrCbewomAWetQKeTS823gDmuR2D9lhmMcMqGlnJO8gpqA2j+SfS9pAQKBgE4n9UK5\non1Zs3fOWLOUOSXZA2pacYDedjL4kGxtvRCIYbBNYec/yVOj334wAx+2nBBy+npZ\ngL8+VgJpnw43jra8tdr1q9qXotYWBlzGU67x46RBq1CBvW/p4cEf3FmiqY0XB4vK\nFHZjJFJC8jPj8uEz1hwj5e6TcG7fIUtHL0rdAoGAFxp/jIRwzf1fsn9EiNLc+aS0\nihfMo15C4BHe+K8o2B2ZzEXtpsDLFS78MBTP4tffpPIrK/YwtLQils115smIA7Hb\nN484DZSasyBmmvNjf48788wHAMICm4a12TIZeKbbE/xinLUs8vOASkUxSz5lXPXY\n/7LLrn0ApZx0sXehrr8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "website@domio-prod.iam.gserviceaccount.com",
+  "client_id": "105103331978495409116",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/website%40domio-prod.iam.gserviceaccount.com"
+}
